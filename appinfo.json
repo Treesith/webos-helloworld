@@ -1,0 +1,9 @@
+{
+	"id": "com.yourdomain.hello",
+	"title": "Hello World",
+	"type": "web",
+	"main": "index.html",
+	"icon": "icon.png",
+	"version": "1.0.0",
+	"vendor": "Your Company"
+}
